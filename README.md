@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me :
-🔭 I’m currently working on Netis Router Management.
-🌱 I’m currently learning more about APIs.
-👯 I’m looking to collaborate on GitHub.
-🤔 I’m looking for help in searching for new ideas.
-💬 Ask me about Flutter or any tech-related stuff.
-📫 How to reach me: Twitter - @TheAabedKhan
-😄 Pronouns: He/His
-⚡ Fun fact: Sometimes I skip my sleep while coding.
+- 🔭 I’m currently working on [Netis Router Management](https://play.google.com/store/apps/details?id=com.aabedkhan.netis.netisroutermanagement).
+- 🌱 I’m currently learning more about APIs.
+- 👯 I’m looking to collaborate on GitHub.
+- 🤔 I’m looking for help in searching for new ideas.
+- 💬 Ask me about Flutter or any tech-related stuff.
+- 📫 How to reach me: [Twitter - @TheAabedKhan](https://twitter.com/TheAabedKhan)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Sometimes I skip my sleep while coding.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AabedOfficial) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheAabedKhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AabedOfficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheAabedKhan) 
