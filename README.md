@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help in searching for new ideas.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @TheAabedKhan](https://twitter.com/TheAabedKhan)
+- 📫 How to reach me: [𝕏 - @TheAabedKhan](https://x.com/TheAabedKhan)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Sometimes I skip my sleep while coding.
 
