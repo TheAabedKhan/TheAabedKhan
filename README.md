@@ -2,7 +2,7 @@
 
 # 💫 About Me :
 - 🔭 I’m currently working on [ReVanced](https://github.com/ReVanced).
-- 🌱 I’m currently learning more about APIs.
+- 🌱 I’m currently learning more about Reverse Engineering.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help in searching for new ideas.
 - 💬 Ask me about Flutter or any tech-related stuff.
